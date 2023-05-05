@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/121867931/232985185-92947999-50c8-471d-a44b-a04a7859dc7c.png">
 
-# **Notes App**
+# **Quotes App**
 Made by Harshil Aslaliya
 
 ---
